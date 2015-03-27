@@ -403,8 +403,10 @@ margin:10px;
 pre code{
 display:block;
 overflow:auto;
+font-size:90%;
+font-family: Courier, 'Courier New', Monaco, Consolas, monospace;
 border:1px #cccccc solid;
-background-color:#f6f6f6;
+background-color:#fafafa;
 padding:10px;
 }
 
